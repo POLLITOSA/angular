@@ -1,0 +1,23 @@
+.btn-primary {
+  width: 100%; /* Ancho deseado */
+  height: 50px;
+  background-color: rgb(190, 55, 55);
+}
+
+.custom-img {
+  width: 500px; /* Ancho deseado */
+  height: auto; /* Altura automática para mantener la proporción */
+}
+.custom-title {
+  font-size: 50px; /* Tamaño de fuente para el título */
+  font-family: "Berkshire Swash", serif;
+  
+}
+
+.custom-text {
+  font-size: 38px; /* Tamaño de fuente para el texto */
+}
+
+.custom-header {
+  font-size: 28px; /* Tamaño de fuente para el encabezado */
+}
